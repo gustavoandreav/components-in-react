@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.app-title {
+  text-align: left;
+  color: burlywood;
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
